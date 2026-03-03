@@ -105,7 +105,7 @@ The interfaces (SportRegistry, SessionManager) stay the same — only the backin
 ## Live Demo
 
 - **Frontend:** [https://glitchy-impostor.github.io/nextplay-frontend/](https://glitchy-impostor.github.io/nextplay-frontend/)
-- **API:** [next-play-backend-production.up.railway.app/api/health](next-play-backend-production.up.railway.app/api/health)
+- **API:** [next-play-backend-production.up.railway.app/api/health](https://next-play-backend-production.up.railway.app/api/health)
 
 ---
 
